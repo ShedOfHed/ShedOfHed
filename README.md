@@ -4,6 +4,9 @@
 - 💞️ We looking to collaborate on ...
 - 🌐 https://www.shedofhed.com
 - 📫 eldiablo@shedofhed.com
+- 
+- <!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=ShedOfHed&style=flat)
 [![Github](https://img.shields.io/badge/-ShedOfHed-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ShedOfHed)
 <!---
 ShedOfHed/ShedOfHed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
